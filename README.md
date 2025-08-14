@@ -8,7 +8,6 @@ I cast my skills into the digital realm — detecting threats, defending network
 ## 📜 Certifications
 - **CompTIA Security+** (In Progress)  
 - **CompTIA Network+** (In Progress)  
-- 
 
 ---
 
