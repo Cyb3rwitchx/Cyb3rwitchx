@@ -1,8 +1,7 @@
 # Hi, I’m Sabrina 💜✨ — aka **Cyb3rWitchX** 🪄🖤  
 **Cybersecurity Student | SOC Analyst in Training**
 
-I cast my skills into the digital realm — detecting threats, defending networks, and learning the art of cyber magic. My journey blends technical skill with creativity, from building a home cybersecurity lab to simulating real-world attacks and defenses.  
-
+I cast my skills into the digital realm detecting threats, defending networks, and learning the art of cyber magic. My journey blends technical skill with creativity, from building a home cybersecurity lab to simulating real-world attacks and defenses.  
 ---
 
 ## 📜 Certifications
