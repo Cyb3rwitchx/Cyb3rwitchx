@@ -23,6 +23,13 @@ Here are some of my favorite labs and projects:
 
 ---
 
+🖧 **Networking Projects**
+
+- **CYB-210 Network Design Project** — Consolidated two networks (subnet1/subnet2), implemented RIP + static routing, configured DHCP/DNS, and NAT/PAT in Cisco Packet Tracer.  
+  _→  Full topology and configuration available in the repo: `cyb210-network-design-project`_
+
+---
+
 ## 🧠 Skills I’m Building
 **Threat Detection & Response**  
 - Writing detection queries in **Kusto Query Language (KQL)**  
