@@ -25,8 +25,9 @@ Here are some of my favorite labs and projects:
 
 🖧 **Networking Projects**
 
-- **CYB-210 Network Design Project** — Consolidated two networks (subnet1/subnet2), implemented RIP + static routing, configured DHCP/DNS, and NAT/PAT in Cisco Packet Tracer.  
-  _→  Full topology and configuration available in the repo: `cyb210-network-design-project`_
+- **CYB-210 Network Design Project** — Consolidated two class-C networks in Cisco Packet Tracer, implemented RIP and static routing, configured DHCP and DNS services, and added NAT/PAT for inter-network connectivity.  
+  _GitHub repo: https://github.com/Cyb3rwitchx/cyb210-network-design-project_
+
 
 ---
 
